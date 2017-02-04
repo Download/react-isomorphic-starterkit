@@ -2,6 +2,8 @@
 
 # React Isomorphic Starterkit
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/react-isomorphic-starterkit.svg)](https://greenkeeper.io/)
+
 Isomorphic starterkit with server-side React rendering using 
 [npm](https://www.npmjs.com),
 [koa](http://koajs.com),
